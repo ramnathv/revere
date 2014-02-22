@@ -1,3 +1,5 @@
+### All lines marked RV were changes made by Ramnath Vaidyanathan
+### Rest of the code belongs to Kieran Healy
 ### Data from "Paul Revere's Ride"
 ### by David Hackett Fisher
 
